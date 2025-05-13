@@ -8,8 +8,7 @@ opportunities. To facilitate informed investment decisions, the CEO has assigned
 The specific tasks include: 
 
 1) Identify the states that are generating the highest revenues. 
-2) Develop sales programs for states with lower revenues. The head of sales 
-and marketing has requested your assistance with this task.
+2) Develop sales programs for states with lower revenues. 
 
 Analyze the sales data of the company for the fourth quarter in Australia, 
 examining it on a state-by-state basis. 
