@@ -19,4 +19,3 @@ As a data scientist, you must perform the following steps on the enclosed data:
 1. Data wrangling 
 2. Data analysis 
 3. Data visualization 
-4. Report generation 
